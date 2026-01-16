@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Ngawang Rinchen — a Data Science graduate at TripleTen Bootcamp. I build ML models, dashboards, and predictive analytics solutions using Python, SQL, and Pandas. I’m passionate about turning complex datasets into actionable insights.  
+I’m Rinchen a Data Science graduate, I build ML models, dashboards, and predictive analytics solutions using Python, SQL, and Pandas. I’m passionate about turning complex datasets into actionable insights.  
 
 ---
 
